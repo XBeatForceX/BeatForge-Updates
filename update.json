@@ -1,5 +1,5 @@
 {
-    "installer_url":  "https://github.com/XBeatForceX/BeatForge-Updates/releases/download/v1.0.8/BeatForge-Setup-1.0.8.exe",
-    "version":  "1.0.8",
-    "notes":  "Update 1.0.8"
+    "installer_url":  "https://github.com/XBeatForceX/BeatForge-Updates/releases/download/v1.0.9/BeatForge-Setup-1.0.9.exe",
+    "version":  "1.0.9",
+    "notes":  "Update 1.0.9\nCo nowego?\n- Dodano globalne skroty klawiszowe (spacja, strzalki) do sterowania odtwarzaniem i glosnoscia.\n- Gdy brak miniaturki, wyswietla sie logo BeatForge w liscie muzyki i kafelkach wideo.\n- Miniaturki przeniesione do folderu per-user (AppData\\BeatForge\\thumbs) + przycisk Otworz w ustawieniach.\n- Potwierdzenie po wyslaniu zaproszenia do znajomych.\n- Ikona aplikacji ustawiana globalnie (pasek zadan)."
 }
