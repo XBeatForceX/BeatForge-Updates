@@ -1,5 +1,5 @@
 {
-    "installer_url":  "https://github.com/XBeatForceX/BeatForge-Updates/releases/download/v1.0.10/BeatForge-Setup-1.0.10.exe",
-    "version":  "1.0.10",
-    "notes":  "Update 1.0.10\nCo nowego?\n- Serduszko w bibliotece muzycznej bez obwodki (samo logo).\n- Ustawienia personalizacji: konfigurowalne HotKey dla play/pause, glosnosci i prev/next (zapisywane w configu)."
+    "installer_url":  "https://github.com/XBeatForceX/BeatForge-Updates/releases/download/v1.0.11/BeatForge-Setup-1.0.11.exe",
+    "version":  "1.0.11",
+    "notes":  "Update 1.0.11\nCo nowego?\n- Personalizacja: zmieniono tytuł sekcji HotKey na Przypisanie klawiszy (spójna wielkość).\n- Ulubione w bibliotece: serduszko na czerwono po zaznaczeniu (czytelny stan).\n- Spolszczenie UI logowania/rejestracji, pobierania MP3/MP4, wideo i ustawień (pełne polskie etykiety).\n- Poprawiono polskie znaki i tłumaczenia w panelu znajomych/czatu, bibliotece, radiu oraz odtwarzaczu wideo.\n- Ujednolicono komunikaty statusu i błędów w aplikacji oraz po stronie serwera (e-mail, hasło, błąd, dostęp).\n- Dodano obsługę linków Spotify w pobieraniu MP3/MP4 (automatyczne wyszukiwanie na YouTube).\n- Naprawiono pobieranie z linków Spotify (fallback bez tokenu Spotify).\n- Poprawiono rozpoznawanie linków Spotify (fallback z og:title/og:description bez tokenu).\n- Dodano pobieranie albumów i playlist Spotify przez odczyt listy utworów z HTML (fallback bez API).\n- Release: poprawiono publikację na GitHub (sanityzacja notek + poprawny JSON/Content-Type)."
 }
